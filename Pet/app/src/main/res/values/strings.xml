@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pet</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <string name="buy_pet_center">购宠中心</string>
+    <string name="know_pet">宠物知识</string>
+</resources>
